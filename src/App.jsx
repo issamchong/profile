@@ -36,6 +36,20 @@ function App() {
       technologies: ["Python", "Computer Vision", "AI", "Classification"],
       type: "Freelance",
       icon: <Database className="w-6 h-6" />
+    },
+        {
+      title: "Trent",
+      description: "Multi vendor e-commerce based on Saudi Arabia buit with Firebase and React and Flutter .",
+      technologies: ["Firebase functions", "Firebase filestore ", "React", "Flutter"],
+      type: "Freelance-CTO",
+      icon: <Database className="w-6 h-6" />
+    },
+            {
+      title: "TicketChamber",
+      description: " A toursim Mobile Apo and dashboard .",
+      technologies: ["Node js ", " Express js ", "Mysql", "Flutter"],
+      type: "Freelance-CTO",
+      icon: <Database className="w-6 h-6" />
     }
   ]
 
