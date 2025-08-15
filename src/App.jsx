@@ -135,16 +135,7 @@ function App() {
             </div>
           </div>
 
-          <div className="flex justify-center space-x-4">
-            <Button className="bg-blue-600 hover:bg-blue-700">
-              <Mail className="w-4 h-4 mr-2" />
-              Contact Me
-            </Button>
-            <Button variant="outline">
-              <Github className="w-4 h-4 mr-2" />
-              View Projects
-            </Button>
-          </div>
+   
         </div>
       </section>
 
