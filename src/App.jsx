@@ -74,7 +74,7 @@ function App() {
           <div className="flex justify-between items-center">
             <h1 className="text-2xl font-bold text-slate-800">Issam Almustafa</h1>
             <nav className="hidden md:flex space-x-6">
-              {['Home', 'About', 'Projects', 'Contact'].map((item) => (
+              {['Home'].map((item) => (
                 <button
                   key={item}
                   onClick={() => setActiveSection(item.toLowerCase())}
