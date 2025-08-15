@@ -41,14 +41,14 @@ function App() {
       title: "Trent",
       description: "Multi vendor e-commerce based on Saudi Arabia buit with Firebase and React and Flutter .",
       technologies: ["Firebase functions", "Firebase filestore ", "React", "Flutter"],
-      type: "Freelance-CTO",
+      type: "Freelance-CTO"-https://trent.sa/,
       icon: <Database className="w-6 h-6" />
     },
             {
       title: "TicketChamber",
-      description: " A toursim Mobile Apo and dashboard .",
+      description: " A toursim Mobile Apo and dashboard- .",
       technologies: ["Node js ", " Express js ", "Mysql", "Flutter"],
-      type: "Freelance-CTO",
+      type: "Freelance-CTO-https://ticketchamber.com/",
       icon: <Database className="w-6 h-6" />
     }
   ]
@@ -97,7 +97,7 @@ function App() {
         <div className="max-w-6xl mx-auto text-center">
           <div className="mb-8">
             <h2 className="text-5xl font-bold text-slate-800 mb-4">
-              AI Developer & Product Manager
+               Developer & Product Manager
             </h2>
             <p className="text-xl text-slate-600 mb-8 max-w-3xl mx-auto">
               Versatile professional with expertise in AI, data science, and web development. 
