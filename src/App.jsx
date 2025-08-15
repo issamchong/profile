@@ -41,7 +41,7 @@ function App() {
       title: "Trent",
       description: "Multi vendor e-commerce based on Saudi Arabia buit with Firebase and React and Flutter .",
       technologies: ["Firebase functions", "Firebase filestore ", "React", "Flutter"],
-      type: "Freelance-CTO"-https://trent.sa/,
+      type: "Freelance-CTO"-https://trent.sa/",
       icon: <Database className="w-6 h-6" />
     },
             {
