@@ -41,14 +41,14 @@ function App() {
       title: "Trent",
       description: "Multi vendor e-commerce based on Saudi Arabia buit with Firebase and React and Flutter .",
       technologies: ["Firebase functions", "Firebase filestore ", "React", "Flutter"],
-      type: "Freelance-CTO"-https://trent.sa/",
+      type: "Freelance-CTO"-trent.sa/",
       icon: <Database className="w-6 h-6" />
     },
             {
       title: "TicketChamber",
       description: " A toursim Mobile Apo and dashboard- .",
       technologies: ["Node js ", " Express js ", "Mysql", "Flutter"],
-      type: "Freelance-CTO-https://ticketchamber.com/",
+      type: "Freelance-CTO-ticketchamber.com/",
       icon: <Database className="w-6 h-6" />
     }
   ]
