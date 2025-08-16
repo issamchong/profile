@@ -194,41 +194,7 @@ function App() {
         </div>
       </section>
 
-      {/* Experience Highlights */}
-      <section className="py-16 px-4 bg-white">
-        <div className="max-w-6xl mx-auto">
-          <h3 className="text-3xl font-bold text-center text-slate-800 mb-12">Current Roles</h3>
-          <div className="grid md:grid-cols-3 gap-6">
-            <Card className="border-slate-200">
-              <CardHeader>
-                <CardTitle className="text-lg">Product Manager</CardTitle>
-                <CardDescription>Premizone, UAE (May 2023 - Present)</CardDescription>
-              </CardHeader>
-              <CardContent>
-                <p className="text-slate-600">Managing Fluid AI Medical project including website redesign and stream platform development.</p>
-              </CardContent>
-            </Card>
-            <Card className="border-slate-200">
-              <CardHeader>
-                <CardTitle className="text-lg">Developer</CardTitle>
-                <CardDescription>Premizone, UAE (May 2024 - Present)</CardDescription>
-              </CardHeader>
-              <CardContent>
-                <p className="text-slate-600">Developing 3D web applications for medical platforms and deploying to Google Cloud Platform.</p>
-              </CardContent>
-            </Card>
-            <Card className="border-slate-200">
-              <CardHeader>
-                <CardTitle className="text-lg">AI Developer</CardTitle>
-                <CardDescription>Premizone, UAE (Nov 2023 - Present)</CardDescription>
-              </CardHeader>
-              <CardContent>
-                <p className="text-slate-600">Implementing facial emotional recognition for sentiment analysis and integrating with cloud services.</p>
-              </CardContent>
-            </Card>
-          </div>
-        </div>
-      </section>
+     
 
       {/* Footer */}
       <footer className="bg-slate-800 text-white py-8 px-4">
