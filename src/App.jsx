@@ -16,13 +16,7 @@ function App() {
       type: "Personal Project",
       icon: <Brain className="w-6 h-6" />
     },
-    {
-      title: "Fluid AI Medical Platform",
-      description: "3D web application and stream platform for medical applications, deployed on Google Cloud Platform.",
-      technologies: ["React", "3D Web", "GCP", "Medical AI"],
-      type: "Premizone",
-      icon: <Code className="w-6 h-6" />
-    },
+
     {
       title: "Facial Emotional Recognition",
       description: "Sentiment analysis system using facial recognition for the Promental project with GCP and Firebase integration.",
@@ -44,13 +38,14 @@ function App() {
       type: "Freelance-CTO-trent.sa/",
       icon: <Database className="w-6 h-6" />
     },
-            {
+    {
       title: "TicketChamber",
       description: " A toursim Mobile Apo and dashboard- .",
       technologies: ["Node js ", " Express js ", "Mysql", "Flutter"],
       type: "Freelance-CTO-ticketchamber.com/",
       icon: <Database className="w-6 h-6" />
     }
+
   ]
 
   const languages = [
@@ -100,9 +95,8 @@ function App() {
                Developer & Product Manager
             </h2>
             <p className="text-xl text-slate-600 mb-8 max-w-3xl mx-auto">
-              Versatile professional with expertise in AI, data science, and web development. 
-              Driven by curiosity for technology, science, and philosophy with a background in art that enhances creativity in product design.
-            </p>
+              Seasoned software engineer with a master degree in  general AI and data science  with a strong background  expertise, deeply rooted in physics and advanced mathematics, 
+              and a passion for scientific research. With 17 years of experience in diverse Latin and North American work cultures, I bring a unique blend of technical rigor, analytical depth, and cross-cultural collaboration to complex problem-solving            </p>
           </div>
 
           {/* Languages Section - Prominently Featured */}
