@@ -95,7 +95,7 @@ function App() {
                Developer & Product Manager
             </h2>
             <p className="text-xl text-slate-600 mb-8 max-w-3xl mx-auto">
-              Seasoned software engineer with a master degree in  general AI and data science  with a strong background  expertise, deeply rooted in physics and advanced mathematics, 
+              Seasoned software engineer with a master degree in  general AI and data science  with a strong background  expertise, deeply rooted in physics and advanced mathematics, embeded systems and electronics
               and a passion for scientific research. With 17 years of experience in diverse Latin and North American work cultures, I bring a unique blend of technical rigor, analytical depth, and cross-cultural collaboration to complex problem-solving            </p>
           </div>
 
